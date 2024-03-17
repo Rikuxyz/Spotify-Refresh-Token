@@ -18,5 +18,5 @@ export default defineConfig({
       ],
     },
   },
-  base: 'https://spotify-refresh-token-iota.vercel.app/', // right now, the base options being put under /build/ is not working
+  base: 'Spotify-Refresh-Token', // right now, the base options being put under /build/ is not working
 });
